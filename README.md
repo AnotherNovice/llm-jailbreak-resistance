@@ -215,7 +215,7 @@ however it may be learning the data itself rather than generalizing.
 | Run | Training Distribution | Resistance | Helpfulness |
 |-----|----------------------|------------|-------------|
 | Baseline | N/A | 93.75% | 62.50% |
-| Exp 2 | 50% harmful | 75.00% | 62.50% |
+| Exp 1 | 50% harmful | 75.00% | 62.50% |
 | Exp 2 | 80% harmful | 75.00% | 62.50% |
 | Exp 3 | 20% harmful | 93.75% | 50.00% |
 | Exp 4 | 50% Harmful | 100%  |  75.00%| Note: 5 epochs instead of 3
